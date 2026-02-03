@@ -3,7 +3,7 @@ Using acoustic data to construct movement networks describing the spatial struct
 
 ## Data
 
-**File:** `contact_calls_by_site.csv` (or whatever you named it)
+**File:** `contact_calls_by_site.csv`
 
 - **Description:** Beluga contact call detections at 6 sites in 2017, 2018, 2021, 2022, 2023
 - **Columns:**
