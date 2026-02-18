@@ -55,8 +55,7 @@ remotes::install_version("timeDate", version = "3043.102"
 
 ## Contact
 
-Jaclyn A. Aubin
-jaclyn.a.aubin@gmail.com
+REDACTED
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
