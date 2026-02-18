@@ -1,6 +1,6 @@
 ####FROM CALLS TO COMMUNITIES: ACOUSTIC MONITORING OF CONTACT CALLS INDICATES SPATIAL STRUCTURE IN ENDANGERED BELUGAS ====
 
-#Jaclyn AubiN
+#REDACTED
 #Started Nov. 2023
 
 ### packages ----
@@ -537,3 +537,4 @@ edge[, sd(V1)]
 #compare to the edge density of the true network
 wilcox_test <- wilcox.test(edge$V1, mu = 0.37)
 print(wilcox_test)
+
